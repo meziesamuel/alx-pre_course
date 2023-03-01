@@ -1,1 +1,1 @@
-My 2nd readme
+I'm working hard and looking forward to be a great Software Enginner!
